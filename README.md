@@ -6,10 +6,10 @@ Dieses JavaFX Starter Template nutzt das Build-System [Gradle](https://gradle.or
 1. Diesen Projektordner kopieren und beliebig benennen
 2. (optional) in `settings.gradle` Eintrag `rootProject.name` an App-Namen anpassen
 3. Projekt in beliebiger IDE/Text-Editor öffnen:
-    1. Eclipse: `File/Import/Gradle/Existing Gradle Project`
-    2. IntelliJ `File/Open` (dann ggf. `Import as Gradle Project`)
+   1. Eclipse: `File/Import/Gradle/Existing Gradle Project`
+   2. IntelliJ `File/Open` (dann ggf. `Import as Gradle Project`)
 4. Gradle Dependencies installieren
-   1. Terminal Linux/MacOS: `./gradlew install`
+   1. Terminal Linux/MacOS: `./gradlew install`\
    2. Terminal Windows: `gradlew.bat install`
    3. Mit Eclipse: Rechtsklick auf das Projekt, dann `Gradle/Refresh Gradle Project`
    4. In IntelliJ: Rechts in der vertikalen Toolbar auf den Gradle-Elefanten klicken und dann auf das Reload Symbol
@@ -17,7 +17,7 @@ Dieses JavaFX Starter Template nutzt das Build-System [Gradle](https://gradle.or
    1. In Eclipse unter `File/Properties/Java Build Path/Libraries` nachsehen
    2. In IntellIJ unter `File/Project Structure/Project/SDK` nachsehen
 6.  JavaFX App starten:
-   1. Terminal Linux/MacOS: `./gradlew run`
-   2. Terminal Windows: `gradlew.bat run`
-   3. Eclipse: Im Menü unten auf `Gradle Tasks` dann `<app name>/application/run`
-   4. IntelliJ: Im Gradle-Menü rechts auf `<app name>/Tasks/application/run`
+    1. Terminal Linux/MacOS: `./gradlew run`
+    2. Terminal Windows: `gradlew.bat run`
+    3. Eclipse: Im Menü unten auf `Gradle Tasks` dann `<app name>/application/run`
+    4. IntelliJ: Im Gradle-Menü rechts auf `<app name>/Tasks/application/run`
